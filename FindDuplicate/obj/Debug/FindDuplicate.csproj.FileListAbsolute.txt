@@ -1,0 +1,6 @@
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe.config
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.exe
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\bin\Debug\FindDuplicate.pdb
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.exe
+c:\users\jeff\documents\visual studio 2015\Projects\FindDuplicate\FindDuplicate\obj\Debug\FindDuplicate.pdb
